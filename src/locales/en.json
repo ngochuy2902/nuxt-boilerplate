@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome",
+  "greeting": "Hello, {name}!",
+  "login": "Login",
+  "home": "Home",
+  "menu": "Menu",
+  "news": "News",
+  "about": "About",
+  "todo": {
+    "title": "Todo List",
+    "add": "Add"
+  }
+}

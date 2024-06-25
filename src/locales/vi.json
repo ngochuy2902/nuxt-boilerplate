@@ -1,0 +1,13 @@
+{
+  "welcome": "Chào mừng",
+  "greeting": "Xin chào, {name}!",
+  "login": "Đăng nhập",
+  "home": "Trang chủ",
+  "menu": "Thực đơn",
+  "news": "Tin tức",
+  "about": "Giới thiệu",
+  "todo": {
+    "title": "Danh sách công việc",
+    "add": "Thêm"
+  }
+}
