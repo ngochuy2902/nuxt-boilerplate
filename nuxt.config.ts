@@ -28,5 +28,8 @@ export default defineNuxtConfig({
     defaultLocale: 'vi',
     strategy: 'prefix_except_default',
     vueI18n: './i18n.config.ts',
-  }
+  },
+  css: [
+    'bootstrap/dist/css/bootstrap.min.css'
+  ],
 });
